@@ -1,0 +1,18 @@
+# Python cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary Google Drive SQLite copies
+*temp*.db
+metadata_gui_temp.db
+
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env.local
+.env.*.local
